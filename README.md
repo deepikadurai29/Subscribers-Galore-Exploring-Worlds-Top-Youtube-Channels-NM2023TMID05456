@@ -12,4 +12,4 @@ DASHBOARD 4 - https://public.tableau.com/views/DASHBOARD4_16972959007320/DASHBOA
 
 DASHBOARD 5 - https://public.tableau.com/views/DASHBOARD5_16972960057970/Dashboard5?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Story piblic link -  https://public.tableau.com/views/STORY1_16972961175150/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+Story public link -  https://public.tableau.com/views/STORY1_16972961175150/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
